@@ -1,0 +1,36 @@
+
+h1 {
+    color: rgb(59, 0, 0);
+}
+
+* {
+    border: solid;
+}
+.header {
+   background-color:rgb(0, 255, 255);
+   display: flex;
+   justify-content:space-between
+   
+}
+.menu{
+    background-color:white;
+}
+.grid{
+    display: flex;
+    flex-wrap:wrap;  
+    justify-content: spacespace-evenly
+    
+}  
+
+
+.footer{
+ 
+    display: flex;
+    flex-wrap:wrap; 
+    justify-content: flex-end;
+}
+
+h2{
+background-image: url();
+
+}
